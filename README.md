@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://nornickel-hackathon.ru/">
-    <img src="images/Снимок экрана 2024-12-07 184606.png" alt="Logo" width="200" height="200">
+    <img src="images/Remove-bg.ai_1733596646308.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Хакатон Норникеля</h3>
@@ -41,7 +41,8 @@
 У всех возникало множество вопросов о разметке на данных нам данных (как различать камера загрязнена или нет), поэтому чтобы точно убедиться и где-то подредактировать данные, их пришлось загрузить в CVAT, из-за чего пришлось написать код для трансформации разметки в формат json (mask_conversion.ipynb), потому что на тот момент мы не особо разобрались в данном нам коде.
 
 Примеры, которые создавали вопросы:
-<img src="images/1709550918_0.jpg" alt="drawing" width="500"/> <img src="images/F2_2_3_2.ts_f_1000.jpg" alt="drawing" width="500"/>
+
+<img src="images/1709550918_0.jpg" alt="drawing" width="200"/> <img src="images/F2_2_3_2.ts_f_1000.jpg" alt="drawing" width="200"/>
 
 После всё было обсуждено и вопросы отпали т.т
 
