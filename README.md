@@ -129,26 +129,6 @@
 
 ### Команда, которая разрабатывала данное решение
 
-<div style="display: flex;">
-  <div style="position: relative; margin-right: 10px;">
-    <a href="https://github.com/fdorii">
-      <img src="https://avatars.githubusercontent.com/u/157366976?v=4" alt="image1" 
-           style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
-      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-                   color: white; font-weight: bold; font-size: 12px; text-shadow: 1px 1px 2px black;">
-        Лидер
-      </span>
-    </a>
-  </div>
-  <div style="position: relative;">
-    <a href="https://github.com/Neas1231">
-      <img src="https://avatars.githubusercontent.com/u/120177610?v=4" alt="image2" 
-           style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
-      <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); 
-                   color: white; font-weight: bold; font-size: 12px; text-shadow: 1px 1px 2px black;">
-        Командир
-      </span>
-    </a>
-  </div>
-</div>
+[<img src="https://avatars.githubusercontent.com/u/157366976?v=4" width=200px>](https://github.com/fdorii) [<img src="https://avatars.githubusercontent.com/u/120177610?v=4" width=200px>](https://github.com/Neas1231)
+
 <p align="right">(<a href="#readme-top">Вернуться в начало</a>)</p>
