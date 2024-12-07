@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://nornickel-hackathon.ru/">
-    <img src="https://reg.nornickel-hackathon.ru/upload/5e14d673-f73b-43fa-b48c-cc606e01036d.png" alt="Logo" width="80" height="80">
+    <img src="images/Снимок экрана 2024-12-07 184606.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Хакатон Норникеля</h3>
